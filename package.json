@@ -1,0 +1,41 @@
+{
+  "name": "chatgpt-code-generation-prompts",
+  "version": "1.0.0",
+  "description": "A curated list of generative AI prompts to craft a virtual ai coder that mimics a real life software engineer. This assistant is intended to follow the common fundamentals and principals found in software development.",
+  "main": "readme-generator.js",
+  "scripts": {
+    "build": "tsc",
+    "combine": "node dist/readme-generator.js",
+    "generate": "npm run build && npm run combine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keypuncherlabs/chatgpt-code-generation-prompts.git"
+  },
+  "keywords": [
+    "Chatgpt",
+    "prompt",
+    "chatgpt",
+    "code",
+    "prompt",
+    "chatgpt",
+    "coder",
+    "prompt",
+    "chatgpt",
+    "code",
+    "generation",
+    "prompts",
+    "chatgpt",
+    "coder",
+    "prompt"
+  ],
+  "author": "Keypuncher",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/keypuncherlabs/chatgpt-code-generation-prompts/issues"
+  },
+  "homepage": "https://github.com/keypuncherlabs/chatgpt-code-generation-prompts#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.19"
+  }
+}
