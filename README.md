@@ -2,15 +2,13 @@
 
 ![KeyPuncher ChatGPT Code Prompt](images/keypuncher-chatgpt-code-prompt.png)
 
-## Get Started with Our Prompts
+## Getting Started
 
 The [`prompt.md`](https://github.com/keypuncherlabs/chatgpt-code-generation-prompts/blob/main/prompt.md) file is your starting point for using this project. It contains a collection of curated prompts designed to enhance AI-driven code generation. Check it out to begin exploring the capabilities of AI in coding.
 
-## Welcome
+## Overview
 
 Welcome to the ChatGPT Code Generation Prompts repository, an unparalleled resource for developers seeking to leverage AI coding generators, including AI code generation and AI coder capabilities, to enhance their programming projects. This comprehensive toolkit is designed to optimize the efficiency and effectiveness of generative AI for code, incorporating a wide array of best practices and fundamental concepts in software development, all under the Creative Commons CC0-1.0 license, ensuring maximum freedom for use and contribution.
-
-## Overview
 
 In the rapidly evolving landscape of software development, the integration of artificial intelligence and machine learning has opened new frontiers for automation and innovation. Generative AI coding, spearheaded by technologies like ChatGPT, offers unprecedented capabilities in generating code from human prompts. The success of AI code generators heavily depends on the specificity and structure of these prompts. Our project addresses this need by providing a curated collection of prompts that guide AI in producing high-quality code, adhering to best practices in AI programming languages.
 
