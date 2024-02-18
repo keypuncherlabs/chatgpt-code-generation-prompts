@@ -1,5 +1,7 @@
 # ChatGPT Code Generation Prompts: Harness AI for Software Development
 
+![KeyPuncher ChatGPT Code Prompt](images/keypuncher-chatgpt-code-prompt.png)
+
 Welcome to the ChatGPT Code Generation Prompts repository, an unparalleled resource for developers seeking to leverage AI coding generators, including AI code generation and AI coder capabilities, to enhance their programming projects. This comprehensive toolkit is designed to optimize the efficiency and effectiveness of generative AI for code, incorporating a wide array of best practices and fundamental concepts in software development, all under the Creative Commons CC0-1.0 license, ensuring maximum freedom for use and contribution.
 
 ## Overview
